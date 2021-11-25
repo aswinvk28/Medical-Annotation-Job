@@ -7,6 +7,10 @@
 
 ![./udacity-logo.png](./udacity-logo.png)
 
+![Annotation 1 Xray](./images_1616768282681-img304-0101-625_annot.png)
+
+![Annotation 2 Xray](./images_1616768483238-img834-im1002-2747_annot.png)
+
 #### Aswin Vijayakumar
 
 ## Data Labeling Approach
